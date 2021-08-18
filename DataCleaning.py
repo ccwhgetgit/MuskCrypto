@@ -2,9 +2,12 @@ import matplotlib.pyplot as plt
 import pandas as pd 
 import numpy as np 
 import string 
+import seaborn as sns
 from datetime import datetime
 from nltk.sentiment import SentimentIntensityAnalyzer
 from random import shuffle
+from time import strptime
+
 
 import re 
 
@@ -13,19 +16,18 @@ price = pd.read_csv('DOGE-USD.csv')
 priceBTC = pd.read_csv('BTC-USD.csv')
 
 
-
 #step 1 : Data Cleaning 
 data['tweet'] = data['tweet'].str.lower()
 
 
 #need to extract the date - assumed to be within 1st Dec 2020 and 11th April 2021
 
-withindate_price = (price['Date'] <= '2021-04-11') & (price['Date'] >= '2020-11-01')
+withindate_price = (price['Date'] <= '2021-04-01') & (price['Date'] >= '2020-11-17')
 price = price.loc[withindate_price]
 price = price[['Date', 'Close', 'Volume']] #filtered
 
 
-priceBTC = priceBTC.loc[(priceBTC['Date'] <= '2021-04-11') & (priceBTC['Date'] >= '2020-11-01')]
+priceBTC = priceBTC.loc[(priceBTC['Date'] <= '2021-04-01') & (priceBTC['Date'] >= '2020-11-17')]
 priceBTC = priceBTC[['Date', 'Close', 'Volume']]
 
 
