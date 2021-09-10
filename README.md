@@ -12,6 +12,8 @@ As such, this was inspired by the desire to expound the relationship between soc
 I analyzed Musk’s Twitter history between December 2020 and April 2021 and identified possible patterns with the market movement. The twitter dataset was selected from Kaggle which contained detailed information within the period of December 2020 and April 2021. Likewise, I explored cryptocurrency data matching this timeframe and broke down to the second intervals to elucidate the price trends thereafter.  
 
 For the purpose of this analysis, I adopted the following approach: 
+
+
 •	From the Cryptocurrency market: 
 o	Bitcoin and Dogecoin were selected as the 2 currencies of interest due to the supposed hype from Musk’s Tweets and Tesla’s actions
 	Daily Closing price (in USD) 
