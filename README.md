@@ -25,13 +25,13 @@ o	The lists included the following:
 o	Subsequently, the data was cleaned to remove hashtags, URLs and any mentions, tweet links et cetera which may introduce errors. 
 
 
-Assumption
+## Assumption
  
 Based on the Efficient Market Hypothesis, I assume that market prices reflect all available information. This means that all market players have access to Musk’s tweets as a source of information and that prices adjust accordingly to accommodate such information. 
 
 
 
-###### Analysis on Dogecoin
+## Analysis on Dogecoin
 
 Preliminary data analysis has revealed that Musk’s tweets were effective in spiraling the price of the meme-coin. This was supported by the spikes in price (+275.6%) and volume (+1095.4%) of the coin within a day from 28th January 2021 to 29th January 2021. It coincided with Musk’s post of a picture about Dogecoin, replacing the cover of the magazine ‘Vogue’ with ‘Dogue’. 
 
@@ -56,7 +56,7 @@ However, these are mainly interpretations as I could not find historical hourly 
 
 
 
-###### Analysis on Bitcoin
+## Analysis on Bitcoin
 
  
 Figure 3 : Overall number of tweets, Price and Vol of Bitcoin Dec 2020 to April 2021
@@ -92,7 +92,7 @@ On hindsight, the activities could have been influenced by US Treasury Secretary
 Figure 7 : Price and Vol of Bitcoin (Following Yellen’s announcement), 22 Feb 2021
 
 
-###### Discussion 
+## Discussion 
 
 The study has demonstrated how a culmination of social and political influences can impact the movements in the cryptocurrency markets. In this case, apart from the Musk effect, we see other possible news which could have resulted in the volatile trading volume and prices of these coins. Nevertheless, there are significant events which were a result of Musk’s tweets, more notably how his jokes have circulated on Twitter to impact the price of dogecoin. On the other hand appears to be less susceptible to his tweets unless there were stronger signs of the cryptocurrency from corporate interests of more influential individuals who communicate their opinions on it via social media, creating a stronger market movement. Hence, Musk’s tweets generally acted as a catalyst for the cryptocurrency movements but in some cases, these were reactionary posts as opposed to a constant trigger. 
 
