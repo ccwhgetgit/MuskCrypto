@@ -1,7 +1,10 @@
-# MuskCrypto
+# MuskCrypto 
 Sentiment Analysis on Musks's tweets between December 2020 and April 2021 and its impacts on DogeCoin and Bitcoin 
 
+This was just a personal project I did as I was curious on the sudden emergence of memecoins earlier this year. 
 
+My full Analysis can be found here
+https://docs.google.com/document/d/1ujkMsLBstQO6pt1bCvzdusjiBO9lPr58/edit?usp=drive_web&ouid=101839271249004164660&rtpof=true
 
 ## The Musk Effect : Is it really the all powerful?
 
